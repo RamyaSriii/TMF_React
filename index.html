@@ -1,147 +1,154 @@
 <!doctype html>
 <html lang="en">
+
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Movie Booking — Home</title>
-  <link rel="stylesheet" href="styles.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Movie Booking — Home</title>
+    <link rel="stylesheet" href="index.css" />
 </head>
+
 <body>
-  <div class="container">
-    <header>
-      <div class="brand">
-        <div class="logo"><span>MB</span></div>
-        <div>
-          <h1>MovieBox</h1>
-          <p>Book tickets · Discover · Watch</p>
-        </div>
-      </div>
-      <nav class="controls">
-        <button class="btn">Sign in</button>
-        <button class="btn primary">Register</button>
-      </nav>
-    </header>
+    <div class="container">
+        <header>
+            <div class="brand">
+                <div class="logo"><span>MB</span></div>
+                <div>
+                    <h1>MovieBox</h1>
+                    <p>Book tickets · Discover · Watch</p>
+                </div>
+            </div>
+            <nav class="controls">
+                <button class="btn">Sign in</button>
+                <button class="btn primary">Register</button>
+            </nav>
+        </header>
 
-    <div class="hero">
-      <div class="search">
-        <input type="search" placeholder="Search movies, actors, genres..." />
-        <div class="select">
-          <select>
-            <option>All cities</option>
-            <option>Visakhapatnam</option>
-            <option>Chennai</option>
-            <option>New Delhi</option>
-            <option>Mumbai</option>
-            <option>Bengaluru</option>
-            <option>Kolkata</option>
-          </select>
-          <select>
-            <option>All languages</option>
-            <option>English</option>
-            <option>Hindi</option>
-            <option>Telugu</option>
-            <option>Tamil</option>
-            <option>Malayalam</option>
-            <option>Kannada</option>
-          </select>
+        <div class="hero">
+            <div class="search">
+                <input type="search" placeholder="Search movies, actors, genres..." />
+                <div class="select">
+                    <select>
+                        <option>All cities</option>
+                        <option>Visakhapatnam</option>
+                        <option>Chennai</option>
+                        <option>New Delhi</option>
+                        <option>Mumbai</option>
+                        <option>Bengaluru</option>
+                        <option>Kolkata</option>
+                    </select>
+                    <select>
+                        <option>All languages</option>
+                        <option>English</option>
+                        <option>Hindi</option>
+                        <option>Telugu</option>
+                        <option>Tamil</option>
+                        <option>Malayalam</option>
+                        <option>Kannada</option>
+                    </select>
+                </div>
+            </div>
+            <div class="search-btn">
+                <button>Search</button>
+            </div>
         </div>
-      </div>
-      <div class="search-btn">
-        <button>Search</button>
-      </div>
+
+        <main class="content">
+            <section class="movies">
+                <div class="section-head">
+                    <h2>Now Showing</h2>
+                    <div class="filters">
+                        <div class="chip">Top Rated</div>
+                        <div class="chip">New Releases</div>
+                        <div class="chip">Action</div>
+                        <div class="chip">Comedy</div>
+                    </div>
+                </div>
+
+                <div class="movies-grid">
+                    <article class="card">
+                        <a href="#" class="poster">
+                            <img src="https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                                alt="Inglourious Basterds">
+                            <div class="rating">★ 8.4</div>
+                        </a>
+                        <div class="meta">
+                            <strong>Inglourious Basterds</strong>
+                            <p>War Action · 2h 33m · English</p>
+                        </div>
+                        <div class="actions">
+                            <button>Details</button>
+                            <button class="book">Book</button>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <a href="#" class="poster">
+                            <img src="https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                                alt="Fight Club">
+                            <div class="rating">★ 8.8</div>
+                        </a>
+                        <div class="meta">
+                            <strong>Fight Club</strong>
+                            <p>Action · 2h 19m · English</p>
+                        </div>
+                        <div class="actions">
+                            <button>Details</button>
+                            <button class="book">Book</button>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <a href="#" class="poster">
+                            <img src="https://m.media-amazon.com/images/M/MV5BYjE1MGJkMjUtY2VkNi00N2U1LWI2NWEtMDExNGYzYjRkZTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+                                alt="The Texas Chain Saw Massacre">
+                            <div class="rating">★ 7.4</div>
+                        </a>
+                        <div class="meta">
+                            <strong>The Texas Chain Saw Massacre</strong>
+                            <p>Horror · 1h 23m · English</p>
+                        </div>
+                        <div class="actions">
+                            <button>Details</button>
+                            <button class="book">Book</button>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <a href="#" class="poster">
+                            <img src="https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_FMjpg_UX1000_.jpg"
+                                alt="Django Unchained">
+                            <div class="rating">★ 8.5</div>
+                        </a>
+                        <div class="meta">
+                            <strong>Django Unchained</strong>
+                            <p>Western · 2h 45m · English</p>
+                        </div>
+                        <div class="actions">
+                            <button>Details</button>
+                            <button class="book">Book</button>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <aside class="sidebar">
+                <div class="location">
+                    <label for="city">Your location</label>
+                    <select id="city">
+                        <option>Visakhapatnam</option>
+                        <option>New Delhi</option>
+                        <option>Mumbai</option>
+                        <option>Bengaluru</option>
+                        <option>Kolkata</option>
+                        <option>Chennai</option>
+                    </select>
+                    <label for="theatre">Preferred theatre (optional)</label>
+                    <input id="theatre" placeholder="Search theatre name" />
+                </div>
+            </aside>
+        </main>
     </div>
-
-    <main class="content">
-      <section class="movies">
-        <div class="section-head">
-          <h2>Now Showing</h2>
-          <div class="filters">
-            <div class="chip">Top Rated</div>
-            <div class="chip">New Releases</div>
-            <div class="chip">Action</div>
-            <div class="chip">Comedy</div>
-          </div>
-        </div>
-
-        <div class="movies-grid">
-          <article class="card">
-            <a href="#" class="poster">
-              <img src="https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Inglourious Basterds">
-              <div class="rating">★ 8.4</div>
-            </a>
-            <div class="meta">
-              <strong>Inglourious Basterds</strong>
-              <p>War Action · 2h 33m · English</p>
-            </div>
-            <div class="actions">
-              <button>Details</button>
-              <button class="book">Book</button>
-            </div>
-          </article>
-
-          <article class="card">
-            <a href="#" class="poster">
-              <img src="https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Fight Club">
-              <div class="rating">★ 8.8</div>
-            </a>
-            <div class="meta">
-              <strong>Fight Club</strong>
-              <p>Action · 2h 19m · English</p>
-            </div>
-            <div class="actions">
-              <button>Details</button>
-              <button class="book">Book</button>
-            </div>
-          </article>
-
-          <article class="card">
-            <a href="#" class="poster">
-              <img src="https://m.media-amazon.com/images/M/MV5BYjE1MGJkMjUtY2VkNi00N2U1LWI2NWEtMDExNGYzYjRkZTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="The Texas Chain Saw Massacre">
-              <div class="rating">★ 7.4</div>
-            </a>
-            <div class="meta">
-              <strong>The Texas Chain Saw Massacre</strong>
-              <p>Horror · 1h 23m · English</p>
-            </div>
-            <div class="actions">
-              <button>Details</button>
-              <button class="book">Book</button>
-            </div>
-          </article>
-
-          <article class="card">
-            <a href="#" class="poster">
-              <img src="https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_FMjpg_UX1000_.jpg" alt="Django Unchained">
-              <div class="rating">★ 8.5</div>
-            </a>
-            <div class="meta">
-              <strong>Django Unchained</strong>
-              <p>Western · 2h 45m · English</p>
-            </div>
-            <div class="actions">
-              <button>Details</button>
-              <button class="book">Book</button>
-            </div>
-          </article>
-        </div>
-      </section>
-
-      <aside class="sidebar">
-        <div class="location">
-          <label for="city">Your location</label>
-          <select id="city">
-            <option>Visakhapatnam</option>
-            <option>New Delhi</option>
-            <option>Mumbai</option>
-            <option>Bengaluru</option>
-            <option>Kolkata</option>
-            <option>Chennai</option>
-          </select>
-          <label for="theatre">Preferred theatre (optional)</label>
-          <input id="theatre" placeholder="Search theatre name" />
-        </div>
-      </aside>
-    </main>
-  </div>
 </body>
+
 </html>
