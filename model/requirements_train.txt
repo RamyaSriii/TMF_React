@@ -1,0 +1,22 @@
+# Model Training Dependencies
+# ================================
+# Install with: pip install -r requirements_train.txt
+
+# Core ML
+tensorflow==2.15.0
+numpy==1.26.4
+
+# Image processing
+Pillow==10.2.0
+opencv-python==4.9.0.80
+
+# Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Data utilities
+scikit-learn==1.4.0
+pandas==2.2.0
+
+# Kaggle dataset download
+kaggle==1.6.3

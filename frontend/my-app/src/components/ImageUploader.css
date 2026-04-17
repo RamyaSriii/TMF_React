@@ -1,0 +1,62 @@
+/* ImageUploader Styles */
+.uploader {
+  border: 2px dashed var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 40px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+  transition: var(--transition);
+  background: var(--color-bg-input);
+  user-select: none;
+}
+
+.uploader:hover {
+  border-color: var(--color-primary-dark);
+  background: rgba(74, 222, 128, 0.04);
+}
+
+.uploader--drag-over {
+  border-color: var(--color-primary);
+  background: var(--color-primary-glow);
+  transform: scale(1.01);
+}
+
+.uploader--disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.uploader__icon {
+  font-size: 2.5rem;
+  line-height: 1;
+  transition: var(--transition);
+}
+
+.uploader:hover .uploader__icon {
+  transform: translateY(-2px);
+}
+
+.uploader__text {
+  text-align: center;
+}
+
+.uploader__title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-bottom: 4px;
+}
+
+.uploader__subtitle {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-bottom: 4px;
+}
+
+.uploader__hint {
+  font-size: 0.75rem;
+  color: var(--color-text-dim);
+}

@@ -1,0 +1,23 @@
+# Backend Dependencies — Plant Disease Prediction API
+# =====================================================
+# Install with: pip install -r requirements.txt
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Deep Learning
+tensorflow-cpu==2.15.0       # CPU-only — lighter for cloud deployment (Render, etc.)
+
+# Image Processing
+Pillow==10.2.0
+numpy==1.26.4
+
+# Utilities
+gunicorn==21.2.0             # Production WSGI server (for deployment)
+python-dotenv==1.0.0         # Environment variable management
+
+# Optional: For FastAPI alternative
+# fastapi==0.109.0
+# uvicorn[standard]==0.27.0
+# python-multipart==0.0.9

@@ -1,0 +1,752 @@
+{
+  "Apple___Apple_scab": {
+    "common_name": "Apple Scab",
+    "plant": "Apple",
+    "symptoms": "Olive-green to brown velvety spots on leaves and fruit. Leaves may curl and drop prematurely. Fruit shows raised scabby lesions reducing marketability.",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "Captan 50 WP or Mancozeb 75 WP",
+      "dosage": "2.5 g per litre of water",
+      "frequency": "Every 7-10 days during wet weather",
+      "application": "Spray thoroughly on all leaf surfaces"
+    },
+    "organic_remedy": "Neem oil spray (5ml/litre) or sulfur-based fungicide",
+    "precautions": [
+      "Remove and destroy fallen leaves",
+      "Prune for better air circulation",
+      "Avoid overhead irrigation",
+      "Apply fungicide before rain events"
+    ],
+    "prevention": "Plant resistant varieties; maintain proper spacing between trees"
+  },
+  "Apple___Black_rot": {
+    "common_name": "Apple Black Rot",
+    "plant": "Apple",
+    "symptoms": "Purple spots on leaves enlarging to brown with purple borders. Fruit shows brown rotting starting at core, eventually turning black and shriveling (mummification).",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "Thiophanate-methyl (Topsin-M) or Captan",
+      "dosage": "1.5 g per litre of water",
+      "frequency": "Every 10-14 days from petal fall",
+      "application": "Cover all plant surfaces thoroughly"
+    },
+    "organic_remedy": "Copper-based fungicide or Bordeaux mixture (1%)",
+    "precautions": [
+      "Remove mummified fruits from tree and ground",
+      "Prune dead or cankered wood",
+      "Sterilize pruning tools between cuts",
+      "Avoid wounding bark"
+    ],
+    "prevention": "Remove cankers; maintain tree vigor through proper nutrition"
+  },
+  "Apple___Cedar_apple_rust": {
+    "common_name": "Cedar Apple Rust",
+    "plant": "Apple",
+    "symptoms": "Bright orange-yellow spots on upper leaf surface with tube-like structures underneath. Infected fruit shows orange lesions. Causes early defoliation.",
+    "severity": "Medium",
+    "pesticide": {
+      "chemical": "Myclobutanil (Rally) or Triadimefon",
+      "dosage": "1 ml per litre of water",
+      "frequency": "Every 7-10 days from pink bud stage",
+      "application": "Apply preventively before infection periods"
+    },
+    "organic_remedy": "Sulfur-based fungicide (lime sulfur)",
+    "precautions": [
+      "Remove nearby juniper/cedar trees if possible",
+      "Apply fungicides during wet spring weather",
+      "Monitor for orange galls on cedar trees nearby"
+    ],
+    "prevention": "Plant rust-resistant apple varieties; create distance from cedar trees"
+  },
+  "Apple___healthy": {
+    "common_name": "Healthy Apple Plant",
+    "plant": "Apple",
+    "symptoms": "No disease symptoms. Plant shows normal green foliage and healthy fruit development.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Continue regular maintenance",
+    "precautions": [
+      "Maintain regular watering schedule",
+      "Apply balanced fertilizer seasonally",
+      "Monitor regularly for early disease signs"
+    ],
+    "prevention": "Regular monitoring and good agricultural practices"
+  },
+  "Blueberry___healthy": {
+    "common_name": "Healthy Blueberry Plant",
+    "plant": "Blueberry",
+    "symptoms": "No disease detected. Plant exhibits healthy green leaves and normal berry development.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Regular organic mulching with acidic material",
+    "precautions": [
+      "Maintain soil pH between 4.5-5.5",
+      "Ensure proper drainage",
+      "Mulch with pine bark to retain moisture"
+    ],
+    "prevention": "Proper soil preparation and pH management"
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "common_name": "Cherry Powdery Mildew",
+    "plant": "Cherry",
+    "symptoms": "White powdery coating on young leaves, shoots, and fruit. Infected leaves curl upward and may turn yellow. Severely affected shoots become stunted.",
+    "severity": "Medium",
+    "pesticide": {
+      "chemical": "Sulfur 80 WP or Trifloxystrobin",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 10-14 days",
+      "application": "Spray during early morning or evening"
+    },
+    "organic_remedy": "Baking soda solution (5g/litre) or potassium bicarbonate",
+    "precautions": [
+      "Avoid excessive nitrogen fertilization",
+      "Improve air circulation by pruning",
+      "Avoid wetting foliage when irrigating",
+      "Remove infected shoots promptly"
+    ],
+    "prevention": "Plant in sunny locations with good air flow; choose resistant varieties"
+  },
+  "Cherry_(including_sour)___healthy": {
+    "common_name": "Healthy Cherry Plant",
+    "plant": "Cherry",
+    "symptoms": "No disease detected. Plant shows healthy green foliage and normal fruit set.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Compost application and balanced nutrition",
+    "precautions": [
+      "Water at base to keep foliage dry",
+      "Prune annually for structure",
+      "Monitor for pest activity"
+    ],
+    "prevention": "Good sanitation and regular monitoring"
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "common_name": "Corn Gray Leaf Spot",
+    "plant": "Corn (Maize)",
+    "symptoms": "Rectangular gray-tan lesions parallel to leaf veins. Lesions have distinct borders and may coalesce causing large dead areas. Severely affected plants show premature death of lower leaves.",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "Azoxystrobin (Quadris) or Propiconazole (Tilt)",
+      "dosage": "1 ml per litre of water",
+      "frequency": "At tasseling and again 2 weeks later",
+      "application": "Aerial or ground application; cover all leaf surfaces"
+    },
+    "organic_remedy": "Copper hydroxide spray",
+    "precautions": [
+      "Rotate crops — avoid corn-after-corn",
+      "Till infected residue into soil",
+      "Improve field drainage",
+      "Avoid late planting"
+    ],
+    "prevention": "Use resistant hybrids; practice crop rotation with non-host crops"
+  },
+  "Corn_(maize)___Common_rust_": {
+    "common_name": "Corn Common Rust",
+    "plant": "Corn (Maize)",
+    "symptoms": "Small, circular to elongate cinnamon-brown pustules on both leaf surfaces. Pustules rupture releasing powdery rust spores. Severe infection causes yellowing and death of leaves.",
+    "severity": "Medium",
+    "pesticide": {
+      "chemical": "Mancozeb 75 WP or Trifloxystrobin + Propiconazole",
+      "dosage": "2 g per litre of water",
+      "frequency": "At first sign of disease; repeat in 7-14 days",
+      "application": "Spray entire plant canopy"
+    },
+    "organic_remedy": "Neem-based fungicide or sulfur dust",
+    "precautions": [
+      "Plant early to avoid heavy infection periods",
+      "Avoid excessive nitrogen",
+      "Monitor fields regularly especially after cool/humid nights"
+    ],
+    "prevention": "Use rust-resistant varieties; early planting dates"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "common_name": "Northern Corn Leaf Blight",
+    "plant": "Corn (Maize)",
+    "symptoms": "Long (5-15 cm), cigar-shaped gray-green to tan lesions on leaves. Lesions have wavy edges and grayish appearance due to spore production. Can cause significant yield loss.",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "Propiconazole (Tilt 250 EC) or Azoxystrobin",
+      "dosage": "1 ml per litre of water",
+      "frequency": "At V8-V10 growth stage",
+      "application": "Apply before disease reaches upper canopy"
+    },
+    "organic_remedy": "Copper-based fungicide",
+    "precautions": [
+      "Crop rotation with soybean or small grains",
+      "Deep tillage of infected residue",
+      "Avoid dense planting"
+    ],
+    "prevention": "Resistant hybrids are most effective; combine with crop rotation"
+  },
+  "Corn_(maize)___healthy": {
+    "common_name": "Healthy Corn Plant",
+    "plant": "Corn (Maize)",
+    "symptoms": "No disease detected. Plant shows healthy green leaves and normal growth.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Balanced NPK fertilization",
+    "precautions": [
+      "Maintain proper plant spacing",
+      "Ensure adequate nutrition",
+      "Scout regularly for pests"
+    ],
+    "prevention": "Good agronomic practices and regular monitoring"
+  },
+  "Grape___Black_rot": {
+    "common_name": "Grape Black Rot",
+    "plant": "Grape",
+    "symptoms": "Tan-brown circular lesions with dark borders on leaves. Infected berries turn brown, shrivel, and become hard black mummies. Can destroy entire crop if untreated.",
+    "severity": "Very High",
+    "pesticide": {
+      "chemical": "Myclobutanil (Rally 40WSP) or Mancozeb",
+      "dosage": "1 g per litre of water",
+      "frequency": "Every 7-10 days from bud break through veraison",
+      "application": "Thorough coverage of all vine parts"
+    },
+    "organic_remedy": "Copper sulfate (Bordeaux mixture)",
+    "precautions": [
+      "Remove all mummified berries",
+      "Prune for good air circulation",
+      "Remove infected canes during dormant pruning",
+      "Keep disease-free during critical infection periods (bloom to fruit set)"
+    ],
+    "prevention": "Resistant varieties; canopy management for air flow"
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "common_name": "Grape Esca (Black Measles)",
+    "plant": "Grape",
+    "symptoms": "Tiger-stripe pattern of yellowing on leaves. Berries develop dark spots and may crack. Internal wood shows dark streaking. Chronic form causes gradual vine decline.",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "No fully effective chemical control exists",
+      "dosage": "Wound sealants (Topsin-M paste) on pruning cuts",
+      "frequency": "At every pruning",
+      "application": "Paint on all pruning wounds immediately"
+    },
+    "organic_remedy": "Trichoderma-based biocontrol agents on wounds",
+    "precautions": [
+      "Avoid large pruning wounds",
+      "Prune during dry weather",
+      "Seal all pruning cuts immediately",
+      "Remove and burn severely infected vines"
+    ],
+    "prevention": "Use certified disease-free planting material; proper pruning hygiene"
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "common_name": "Grape Isariopsis Leaf Spot",
+    "plant": "Grape",
+    "symptoms": "Irregular dark brown spots on upper leaf surface with grayish fungal growth beneath. Severely infected leaves turn yellow and drop. Reduces photosynthesis and fruit quality.",
+    "severity": "Medium",
+    "pesticide": {
+      "chemical": "Carbendazim 50 WP or Copper oxychloride",
+      "dosage": "1-2 g per litre of water",
+      "frequency": "Every 10-15 days",
+      "application": "Spray both upper and lower leaf surfaces"
+    },
+    "organic_remedy": "Neem oil (3ml/litre) + soap solution",
+    "precautions": [
+      "Remove fallen infected leaves",
+      "Avoid overhead irrigation",
+      "Improve canopy aeration",
+      "Apply fungicides preventively in humid conditions"
+    ],
+    "prevention": "Proper trellising and canopy management"
+  },
+  "Grape___healthy": {
+    "common_name": "Healthy Grape Vine",
+    "plant": "Grape",
+    "symptoms": "No disease detected. Vine exhibits healthy green foliage and normal bunch development.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Compost tea spray as preventive",
+    "precautions": [
+      "Regular canopy management",
+      "Monitor for disease pressure",
+      "Balanced fertilization"
+    ],
+    "prevention": "Good viticultural practices"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "common_name": "Citrus Greening (HLB)",
+    "plant": "Orange / Citrus",
+    "symptoms": "Asymmetric yellowing (blotchy mottle) on leaves. Fruits remain small, green, bitter, and misshapen. Shoots die back. Trees decline progressively and die within years.",
+    "severity": "Critical - No Cure",
+    "pesticide": {
+      "chemical": "Imidacloprid (Confidor) for psyllid vector control",
+      "dosage": "0.5 ml per litre for foliar; soil drench as label directed",
+      "frequency": "Every 3 months for psyllid management",
+      "application": "Focus on new flush growth where psyllids feed"
+    },
+    "organic_remedy": "Reflective mulches to repel psyllids; kaolin clay sprays",
+    "precautions": [
+      "REMOVE AND DESTROY infected trees immediately",
+      "Control Asian citrus psyllid vector aggressively",
+      "Do not transport plant material from infected areas",
+      "Inspect new plants before introduction"
+    ],
+    "prevention": "Use certified disease-free nursery stock; aggressive psyllid control"
+  },
+  "Peach___Bacterial_spot": {
+    "common_name": "Peach Bacterial Spot",
+    "plant": "Peach",
+    "symptoms": "Small water-soaked lesions on leaves becoming angular, dark, and eventually falling out (shot-hole). Fruit shows pitted, scabby spots reducing quality. Severe cases cause defoliation.",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "Copper hydroxide (Kocide) or Oxytetracycline (FireLine)",
+      "dosage": "2-3 g per litre of water",
+      "frequency": "Every 5-7 days during wet weather",
+      "application": "Begin at shuck split; cover all surfaces"
+    },
+    "organic_remedy": "Copper-based bactericide (fixed copper)",
+    "precautions": [
+      "Avoid wetting foliage",
+      "Prune for air circulation",
+      "Reduce tree stress through proper nutrition",
+      "Apply protective sprays before rain events"
+    ],
+    "prevention": "Plant resistant varieties; minimize plant wounding"
+  },
+  "Peach___healthy": {
+    "common_name": "Healthy Peach Tree",
+    "plant": "Peach",
+    "symptoms": "No disease detected. Tree shows healthy green foliage and normal fruit development.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Dormant oil spray in late winter as preventive",
+    "precautions": [
+      "Annual pruning for open center structure",
+      "Regular irrigation management",
+      "Monitor for insect pests"
+    ],
+    "prevention": "Good sanitation; remove fallen fruit and leaves"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "common_name": "Bell Pepper Bacterial Spot",
+    "plant": "Bell Pepper",
+    "symptoms": "Small, water-soaked circular spots on leaves with yellow halos turning dark brown. Fruit shows raised, warty, dark spots. Severe infections cause defoliation and fruit drop.",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "Copper hydroxide + Mancozeb (tank mix)",
+      "dosage": "2 g copper + 1.5 g mancozeb per litre",
+      "frequency": "Every 5-7 days in warm humid weather",
+      "application": "Begin at transplanting; thorough coverage essential"
+    },
+    "organic_remedy": "Copper octanoate spray",
+    "precautions": [
+      "Use disease-free certified seed",
+      "Avoid working in wet fields",
+      "Rotate with non-solanaceous crops (3 year rotation)",
+      "Remove infected plant debris"
+    ],
+    "prevention": "Use resistant varieties; crop rotation; avoid overhead irrigation"
+  },
+  "Pepper,_bell___healthy": {
+    "common_name": "Healthy Bell Pepper Plant",
+    "plant": "Bell Pepper",
+    "symptoms": "No disease detected. Plant shows healthy dark green leaves and normal fruit set.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Seaweed extract foliar spray for plant immunity",
+    "precautions": [
+      "Maintain consistent soil moisture",
+      "Stake plants to prevent lodging",
+      "Monitor for aphids and thrips"
+    ],
+    "prevention": "Good cultural practices and balanced fertilization"
+  },
+  "Potato___Early_blight": {
+    "common_name": "Potato Early Blight",
+    "plant": "Potato",
+    "symptoms": "Dark brown to black concentric ring lesions (target-board pattern) on older leaves first. Yellow halo around lesions. Tubers may show dark, sunken lesions at harvest.",
+    "severity": "Medium-High",
+    "pesticide": {
+      "chemical": "Chlorothalonil (Bravo) or Mancozeb 75 WP",
+      "dosage": "2-2.5 g per litre of water",
+      "frequency": "Every 7-10 days",
+      "application": "Begin spraying when plants are 15-20 cm tall"
+    },
+    "organic_remedy": "Copper sulfate or Bacillus subtilis-based products",
+    "precautions": [
+      "Destroy infected plant debris post-harvest",
+      "Rotate crops — avoid potatoes/tomatoes in same field consecutively",
+      "Maintain adequate soil fertility",
+      "Hill soil around plants to protect tubers"
+    ],
+    "prevention": "Use certified seed potatoes; avoid stressing plants"
+  },
+  "Potato___Late_blight": {
+    "common_name": "Potato Late Blight",
+    "plant": "Potato",
+    "symptoms": "Water-soaked pale green lesions on leaves turning dark brown/black quickly. White mold visible on leaf undersides in humid conditions. This was the cause of the Irish Famine — extremely destructive.",
+    "severity": "Critical",
+    "pesticide": {
+      "chemical": "Metalaxyl + Mancozeb (Ridomil Gold MZ) or Cymoxanil",
+      "dosage": "2.5 g per litre of water",
+      "frequency": "Every 5-7 days during cool/wet weather",
+      "application": "PREVENTIVE application is crucial — apply before infection"
+    },
+    "organic_remedy": "Copper-based fungicides (Bordeaux mixture)",
+    "precautions": [
+      "NEVER use infected tubers as seed",
+      "Remove and destroy all infected material immediately",
+      "Avoid overhead irrigation",
+      "Harvest tubers in dry conditions",
+      "Store harvested tubers in cool, dry, well-ventilated area"
+    ],
+    "prevention": "Resistant varieties; destroy volunteer potato plants; monitor weather forecasts"
+  },
+  "Potato___healthy": {
+    "common_name": "Healthy Potato Plant",
+    "plant": "Potato",
+    "symptoms": "No disease detected. Plant shows healthy green canopy and normal tuber development.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Seaweed-based fertilizer for plant health",
+    "precautions": [
+      "Use certified seed potatoes only",
+      "Maintain proper hilling practices",
+      "Monitor soil moisture consistently"
+    ],
+    "prevention": "Crop rotation and good seed selection"
+  },
+  "Raspberry___healthy": {
+    "common_name": "Healthy Raspberry Plant",
+    "plant": "Raspberry",
+    "symptoms": "No disease detected. Canes show healthy green leaves and normal fruit development.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Compost mulch around base",
+    "precautions": [
+      "Remove old fruited canes after harvest",
+      "Maintain trellis system",
+      "Ensure good drainage"
+    ],
+    "prevention": "Annual cane management and sanitation"
+  },
+  "Soybean___healthy": {
+    "common_name": "Healthy Soybean Plant",
+    "plant": "Soybean",
+    "symptoms": "No disease detected. Plant shows uniform green color and normal pod development.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Rhizobium inoculant for nitrogen fixation",
+    "precautions": [
+      "Monitor for soybean aphid",
+      "Maintain proper plant population",
+      "Scout for sudden death syndrome"
+    ],
+    "prevention": "Crop rotation and proper seed treatment"
+  },
+  "Squash___Powdery_mildew": {
+    "common_name": "Squash Powdery Mildew",
+    "plant": "Squash / Cucurbit",
+    "symptoms": "White powdery patches on upper leaf surfaces, stems, and petioles. Infected leaves turn yellow then brown and die. Reduces fruit size and quality. Very common in late summer.",
+    "severity": "Medium",
+    "pesticide": {
+      "chemical": "Sulfur 80 WP or Myclobutanil",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 7-10 days",
+      "application": "Cover upper and lower leaf surfaces; spray in morning"
+    },
+    "organic_remedy": "Potassium bicarbonate or milk spray (40% milk:60% water)",
+    "precautions": [
+      "Do not apply sulfur when temperature exceeds 32°C",
+      "Improve air circulation",
+      "Avoid excessive nitrogen fertilization",
+      "Remove heavily infected leaves"
+    ],
+    "prevention": "Plant resistant varieties; ensure adequate spacing; avoid wet foliage"
+  },
+  "Strawberry___Leaf_scorch": {
+    "common_name": "Strawberry Leaf Scorch",
+    "plant": "Strawberry",
+    "symptoms": "Irregular dark purple spots on upper leaf surface. Spots enlarge and centers turn tan/gray. Severely affected leaves look scorched. Weakens plants and reduces yield.",
+    "severity": "Medium",
+    "pesticide": {
+      "chemical": "Captan 50 WP or Thiram",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 10-14 days",
+      "application": "Spray from first leaf emergence"
+    },
+    "organic_remedy": "Copper-based fungicide",
+    "precautions": [
+      "Remove and destroy old infected leaves",
+      "Avoid overhead irrigation",
+      "Renovate planting after harvest (mow, thin)",
+      "Mulch to reduce splash dispersal"
+    ],
+    "prevention": "Use resistant varieties; proper plant spacing; certified transplants"
+  },
+  "Strawberry___healthy": {
+    "common_name": "Healthy Strawberry Plant",
+    "plant": "Strawberry",
+    "symptoms": "No disease detected. Plant shows healthy trifoliate leaves and normal fruit production.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Straw mulch application around plants",
+    "precautions": [
+      "Replace plants every 3-4 years",
+      "Keep runners managed",
+      "Monitor for slugs and mites"
+    ],
+    "prevention": "Regular plant renewal and good sanitation"
+  },
+  "Tomato___Bacterial_spot": {
+    "common_name": "Tomato Bacterial Spot",
+    "plant": "Tomato",
+    "symptoms": "Small, water-soaked circular spots on leaves with yellow halos; centers turn dark brown. Fruit shows raised, scabby, dark spots reducing marketability. Causes defoliation in severe cases.",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "Copper hydroxide (Kocide 3000) + Mancozeb",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 5-7 days in warm/wet weather",
+      "application": "Apply from transplant stage"
+    },
+    "organic_remedy": "Fixed copper spray; bacteriophage-based products (Agriphage)",
+    "precautions": [
+      "Use disease-free seed treated with hot water",
+      "Avoid working when foliage is wet",
+      "Stake and prune for air flow",
+      "3-year crop rotation"
+    ],
+    "prevention": "Resistant varieties; certified seed; drip irrigation"
+  },
+  "Tomato___Early_blight": {
+    "common_name": "Tomato Early Blight",
+    "plant": "Tomato",
+    "symptoms": "Dark brown concentric ring spots (bullseye pattern) on older lower leaves first. Yellow tissue surrounds lesions. Stem lesions (collar rot) can girdle seedlings. Reduces fruit quality.",
+    "severity": "Medium-High",
+    "pesticide": {
+      "chemical": "Chlorothalonil (Daconil) or Mancozeb 75 WP",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 7-10 days",
+      "application": "Start spraying at transplanting"
+    },
+    "organic_remedy": "Copper sulfate or Serenade (Bacillus subtilis)",
+    "precautions": [
+      "Remove lower infected leaves",
+      "Avoid watering from above",
+      "Mulch soil to prevent splash",
+      "Destroy crop debris after harvest"
+    ],
+    "prevention": "Crop rotation; resistant varieties; good plant spacing"
+  },
+  "Tomato___Late_blight": {
+    "common_name": "Tomato Late Blight",
+    "plant": "Tomato",
+    "symptoms": "Large, greasy-looking gray-green to dark brown lesions on leaves and stems. White mold on leaf undersides in humid weather. Fruit shows large, firm, dark brown lesions. Extremely fast-spreading.",
+    "severity": "Critical",
+    "pesticide": {
+      "chemical": "Metalaxyl + Mancozeb (Ridomil Gold) or Cymoxanil + Mancozeb",
+      "dosage": "2.5 g per litre of water",
+      "frequency": "Every 5-7 days; more frequently in cool/wet weather",
+      "application": "Preventive application is critical before infection"
+    },
+    "organic_remedy": "Copper-based fungicide (preventive only)",
+    "precautions": [
+      "DESTROY infected plants and fruit immediately",
+      "Do not compost infected material — burn or bag it",
+      "Avoid overhead irrigation",
+      "Monitor weather — infection favors cool (10-24°C), wet conditions"
+    ],
+    "prevention": "Resistant varieties; eliminate potato volunteers nearby; regular scouting"
+  },
+  "Tomato___Leaf_Mold": {
+    "common_name": "Tomato Leaf Mold",
+    "plant": "Tomato",
+    "symptoms": "Pale green to yellow patches on upper leaf surface. Corresponding velvety olive-gray mold growth on leaf undersides. Infected leaves curl upward and die. Most common in greenhouses.",
+    "severity": "Medium",
+    "pesticide": {
+      "chemical": "Chlorothalonil or Mancozeb 75 WP",
+      "dosage": "2 g per litre of water",
+      "frequency": "Every 7-14 days",
+      "application": "Focus spray on leaf undersides"
+    },
+    "organic_remedy": "Sulfur-based fungicide; improve ventilation",
+    "precautions": [
+      "Reduce relative humidity below 85%",
+      "Increase ventilation in greenhouses",
+      "Remove infected leaves immediately",
+      "Avoid wetting foliage"
+    ],
+    "prevention": "Resistant varieties; humidity management; proper plant spacing"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "common_name": "Tomato Septoria Leaf Spot",
+    "plant": "Tomato",
+    "symptoms": "Numerous small (3-6mm) circular spots with dark brown borders and light gray-white centers. Tiny black dots (pycnidia) visible in spot centers. Causes severe defoliation starting from lower leaves.",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "Chlorothalonil (Daconil 2787) or Mancozeb",
+      "dosage": "2-2.5 g per litre of water",
+      "frequency": "Every 7-10 days",
+      "application": "Begin at first sign; ensure complete coverage"
+    },
+    "organic_remedy": "Copper-based fungicide; Bacillus subtilis products",
+    "precautions": [
+      "Remove and destroy lower infected leaves",
+      "Stake plants to minimize soil splash",
+      "Mulch around plant base",
+      "Avoid handling plants when wet",
+      "2-3 year rotation out of tomatoes"
+    ],
+    "prevention": "Resistant varieties; crop rotation; mulching; drip irrigation"
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "common_name": "Tomato Spider Mite Infestation",
+    "plant": "Tomato",
+    "symptoms": "Fine yellow stippling on upper leaf surface. Fine webbing visible on leaf undersides. Leaves turn bronze, then yellow-brown and die. Severe infestations cause complete leaf death in hot dry weather.",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "Abamectin (Vertimec) or Bifenazate (Floramite)",
+      "dosage": "0.5-1 ml per litre of water",
+      "frequency": "Every 5-7 days; rotate chemical groups",
+      "application": "Thorough coverage of leaf undersides essential"
+    },
+    "organic_remedy": "Neem oil (5ml/litre) + soap; predatory mite releases (Phytoseiulus)",
+    "precautions": [
+      "Avoid broad-spectrum insecticides that kill natural enemies",
+      "Increase humidity (mites thrive in dry conditions)",
+      "Remove heavily infested leaves",
+      "Rotate miticide groups to prevent resistance"
+    ],
+    "prevention": "Encourage natural predators; adequate irrigation; early detection"
+  },
+  "Tomato___Target_Spot": {
+    "common_name": "Tomato Target Spot",
+    "plant": "Tomato",
+    "symptoms": "Circular to irregular brown spots with concentric rings on leaves. Lesions may have yellow halo. Fruit shows small, sunken, dark spots. Can cause significant defoliation and fruit loss.",
+    "severity": "Medium-High",
+    "pesticide": {
+      "chemical": "Azoxystrobin (Amistar) or Boscalid + Pyraclostrobin",
+      "dosage": "1 ml per litre of water",
+      "frequency": "Every 7-14 days",
+      "application": "Preventive sprays from early season"
+    },
+    "organic_remedy": "Copper-based fungicide",
+    "precautions": [
+      "Improve air circulation with pruning",
+      "Avoid wetting foliage",
+      "Remove infected leaves and plant debris",
+      "Practice crop rotation"
+    ],
+    "prevention": "Good sanitation; resistant varieties where available"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "common_name": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "plant": "Tomato",
+    "symptoms": "Young leaves curl upward and inward, turn yellow at margins. Severe stunting of plants. Flowers drop, fruit set is poor. Transmitted by whiteflies — plants infected early may produce no fruit.",
+    "severity": "Critical",
+    "pesticide": {
+      "chemical": "Imidacloprid (Confidor) or Thiamethoxam for whitefly vector",
+      "dosage": "0.5 ml per litre (foliar) or soil drench",
+      "frequency": "Every 7-10 days from transplanting",
+      "application": "Target whitefly adults and nymphs on leaf undersides"
+    },
+    "organic_remedy": "Yellow sticky traps; reflective mulch; neem oil for whiteflies",
+    "precautions": [
+      "NO CURE — infected plants must be REMOVED AND DESTROYED",
+      "Control whitefly populations aggressively and early",
+      "Use UV-blocking nets in nurseries",
+      "Do not transplant near infected fields",
+      "Use insect-proof screens in greenhouses"
+    ],
+    "prevention": "TYLCV-resistant varieties are the most effective strategy; aggressive whitefly control"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "common_name": "Tomato Mosaic Virus (ToMV)",
+    "plant": "Tomato",
+    "symptoms": "Mosaic pattern of light and dark green mottling on leaves. Leaves may show distortion, blistering, or fern-leaf symptoms. Fruit shows yellowing and internal browning. Plants may be stunted.",
+    "severity": "High",
+    "pesticide": {
+      "chemical": "No chemical cure — prevention only",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Skim milk spray (10%) as preventive to block virus transmission",
+    "precautions": [
+      "REMOVE AND DESTROY infected plants",
+      "Disinfect tools with 10% bleach solution or trisodium phosphate",
+      "Wash hands with soap before handling plants",
+      "Control aphid and thrips vectors",
+      "Do NOT use tobacco products near tomatoes (can carry virus)"
+    ],
+    "prevention": "Resistant varieties (Tm-2 gene); certified virus-free seed; strict sanitation"
+  },
+  "Tomato___healthy": {
+    "common_name": "Healthy Tomato Plant",
+    "plant": "Tomato",
+    "symptoms": "No disease detected. Plant shows deep green healthy leaves and normal fruit development.",
+    "severity": "None",
+    "pesticide": {
+      "chemical": "No treatment needed",
+      "dosage": "N/A",
+      "frequency": "N/A",
+      "application": "N/A"
+    },
+    "organic_remedy": "Compost tea spray; calcium foliar spray for blossom end rot prevention",
+    "precautions": [
+      "Stake or cage plants properly",
+      "Remove suckers for indeterminate varieties",
+      "Monitor regularly for early disease/pest signs",
+      "Consistent watering to prevent blossom end rot"
+    ],
+    "prevention": "Good cultural practices; balanced fertilization; regular scouting"
+  }
+}
